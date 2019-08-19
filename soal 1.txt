@@ -1,0 +1,25 @@
+1.Newton
+MASS of Objects 600 kg
+SPEED 2 m/s2
+CALCULATE the resultant force
+GENERATED 1200 N
+
+2.Kabisat
+INPUT year
+IF year MOD 4 equals zero then
+IF year MOD 100 equals notzero OR year MOD 100 equals zero AND year MOD 400 equals zero
+DEFINE year as kabisat
+
+3. Laundry
+DEFINE clothes equals 0
+FOR clothes less than 20
+INPUT 1 clothes
+NEXT
+EXECUTE washing machine
+
+4.KUKU
+TEACHER checks the nail of the student
+IF long nails
+TEACHER cut his nails
+ELSE
+TEACHER praises the student
